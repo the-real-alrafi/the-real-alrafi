@@ -22,11 +22,12 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-
+</br>
 <!-- Competitive Programming Profiles --> 
+</br>
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
-
+</br>
 <!-- https://leetcard.jacoblin.cool/ --> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alrafi?theme=nord&font=Salsa&ext=activity) 
 
