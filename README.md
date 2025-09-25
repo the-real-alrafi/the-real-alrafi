@@ -1,9 +1,9 @@
 # Hi, I'm Al Rafi👋
 
 <div align="left" style="font-weight:bold; font-size:18px; line-height:2;">
-  🦅 I am Web Developer<br>
-  ❓ Endless curiosity<br>
-  ☕ Fueled by code and coffee
+  <b>🦅 I am Web Developer</b><br>
+  <b>❓ Endless curiosity</b><br>
+  <b>☕ Fueled by code and coffee</b>
 </div>
 
 
@@ -11,7 +11,7 @@
 
 # 🤝🏻 Connect with me
 
-<p align="center" style="line-height: 1.8;">
+<p align="left" style="line-height: 1.8;">
   <a href="https://behance.net/the-real-alrafi"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" style="margin:5px;"></a>
   <a href="https://facebook.com/the.real.alrafi"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" style="margin:5px;"></a>
   <a href="https://instagram.com/the_real_alrafi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="margin:5px;"></a>
