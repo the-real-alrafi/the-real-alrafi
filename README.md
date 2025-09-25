@@ -21,6 +21,24 @@
   <a href="https://codepen.io/@the-real-alrafi"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" style="margin:5px;"></a>
   <a href="mailto:therealalrafi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="margin:5px;"></a>
 </p>
+<a href="https://twitter.com/@therealalrafi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/@the-real-alrafi" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/the-real-alrafi" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/the-real-alrafi" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/the_real_alrafi" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/the.real.alrafi" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
 
 
 ---
