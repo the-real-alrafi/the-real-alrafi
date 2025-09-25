@@ -13,14 +13,7 @@
 
 # 🤝🏻 Connect with me
 
-<p align="left" style="line-height: 1.8;">
-  <a href="https://behance.net/the-real-alrafi"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" style="margin:5px;"></a>
-  <a href="https://facebook.com/the.real.alrafi"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" style="margin:5px;"></a>
-  <a href="https://instagram.com/the_real_alrafi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="margin:5px;"></a>
-  <a href="https://x.com/@therealalrafi"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" style="margin:5px;"></a>
-  <a href="https://codepen.io/@the-real-alrafi"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" style="margin:5px;"></a>
-  <a href="mailto:therealalrafi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="margin:5px;"></a>
-</p>
+
 <a href="https://twitter.com/@therealalrafi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
