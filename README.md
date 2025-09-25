@@ -1,12 +1,15 @@
 # Hi, I'm Al Rafi👋
 
+
 <div align="left" style="font-weight:bold; font-size:18px; line-height:2.2; margin-bottom:15px;">
   🦅 I am Web Developer<br>
   ❓ Endless curiosity<br>
   ☕ Fueled by code and coffee
 </div>
 
+
 ---
+
 
 # 🤝🏻 Connect with me
 
@@ -18,6 +21,7 @@
   <a href="https://codepen.io/@the-real-alrafi"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" style="margin:5px;"></a>
   <a href="mailto:therealalrafi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="margin:5px;"></a>
 </p>
+
 
 ---
 
@@ -48,6 +52,7 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin:5px;">
 </p>
 
+
 ---
 
 
@@ -58,6 +63,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
+
 
 ---
 
