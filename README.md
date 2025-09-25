@@ -1,14 +1,12 @@
 # Hi, I'm Al Rafi👋
 
-<div align="left" style="font-weight:bold; font-size:18px; line-height:2;">
-  🦅<b> I am Web Developer</b><br>
-  ❓<b> Endless curiosity</b><br>
-  ☕<b> Fueled by code and coffee</b>
+<div align="left" style="font-weight:bold; font-size:18px; line-height:2.2; margin-bottom:15px;">
+  🦅 I am Web Developer<br>
+  ❓ Endless curiosity<br>
+  ☕ Fueled by code and coffee
 </div>
 
 ---
-
-<br>
 
 # 🤝🏻 Connect with me
 
@@ -26,7 +24,6 @@
 <br>
 
 # 💻 Languages & Tools
-
 
 <p align="left" style="line-height: 2;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin:5px;">
@@ -56,7 +53,6 @@
 
 <br>
 
-
 # 📊 GitHub Stats
 
 <p align="left" style="line-height: 2;">
@@ -65,11 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-
-<br>
-<br>
-
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h2 align='left'>Thank You ❤</h2>
