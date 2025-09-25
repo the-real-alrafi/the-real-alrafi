@@ -1,9 +1,9 @@
 # Hi, I'm Al Rafi👋
 
 <div align="left" style="font-weight:bold; font-size:18px; line-height:2;">
-  <b>🦅 I am Web Developer</b><br>
-  <b>❓ Endless curiosity</b><br>
-  <b>☕ Fueled by code and coffee</b>
+  🦅<b> I am Web Developer</b><br>
+  ❓<b> Endless curiosity</b><br>
+  ☕<b> Fueled by code and coffee</b>
 </div>
 
 
@@ -55,7 +55,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center" style="line-height: 2;">
+<p align="left" style="line-height: 2;">
   <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"><br><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
