@@ -21,7 +21,6 @@
 
 ---
 
-<br>
 
 # 💻 Languages & Tools
 
@@ -51,7 +50,6 @@
 
 ---
 
-<br>
 
 # 📊 GitHub Stats
 
