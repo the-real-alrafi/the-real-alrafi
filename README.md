@@ -6,8 +6,13 @@
   ☕<b> Fueled by code and coffee</b>
 </div>
 
+<br>
+<br>
 
 ---
+
+<br>
+<br>
 
 # 🤝🏻 Connect with me
 
@@ -20,12 +25,15 @@
   <a href="mailto:therealalrafi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" style="margin:5px;"></a>
 </p>
 
+<br>
+<br>
 
 ---
 
 # 💻 Languages & Tools
 
-<p align="center" style="line-height: 2;">
+
+<p align="left" style="line-height: 2;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin:5px;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin:5px;">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin:5px;">
@@ -49,6 +57,8 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin:5px;">
 </p>
 
+<br>
+<br>
 
 ---
 
@@ -60,6 +70,10 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
+
+
+<br>
+<br>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
