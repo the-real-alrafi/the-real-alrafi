@@ -1,10 +1,10 @@
 # Hi, I'm Al Rafi👋
 
 
-<div align="left" style="font-weight:bold; font-size:18px; line-height:2.2; margin-bottom:15px;">
-  🦅 I am Web Developer<br>
-  ❓ Endless curiosity<br>
-  ☕ Fueled by code and coffee
+<div align="left" style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
+  🦅 <b>I am Web Developer</b><br>
+  ❓ <b>Endless curiosity</b><br>
+  ☕ <b></b>Fueled by code and coffee</b>
 </div>
 
 
