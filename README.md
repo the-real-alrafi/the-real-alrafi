@@ -1,24 +1,30 @@
 # Hi, I'm Al Rafi👋
 
+
 <div align="center">
   <table>
     <tr>
-      <td align="left" style="vertical-align: top; padding-right: 20px;">
-        <div style="font-weight:bold; font-size:20px; line-height:2.5; margin-bottom:15px;">
-          🦅 <b>I am Web Developer</b><br><br>
-          ❓ <b>Endless curiosity</b><br><br>
-          ☕ <b>Fueled by code and coffee</b>
+      <td align="left" style="vertical-align: top; padding-right: 30px; width: 60%;">
+        <div style="font-weight:bold; font-size:18px; line-height:1.8;">
+          🦅 <strong>I am Web Developer</strong>
+        </div>
+        <br>
+        <div style="font-weight:bold; font-size:18px; line-height:1.8;">
+          ❓ <strong>Endless curiosity</strong>
+        </div>
+        <br>
+        <div style="font-weight:bold; font-size:18px; line-height:1.8;">
+          ☕ <strong>Fueled by code and coffee</strong>
         </div>
       </td>
-      <td align="right" style="vertical-align: top;">
+      <td align="right" style="vertical-align: top; width: 40%;">
         <a href="https://github.com/the-real-alrafi">
-          <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true" alt="Al Rafi" style="max-width: 200px; border-radius: 8px;">
+          <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true" alt="Al Rafi" style="width: 100%; max-width: 250px; border-radius: 10px;">
         </a>
       </td>
     </tr>
   </table>
 </div>
----
 
 
 # 🤝🏻 Connect with me
