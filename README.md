@@ -1,13 +1,23 @@
 # Hi, I'm Al Rafi👋
 
-[<img src='https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true' alt='Al Rafi'>](https://github.com/the-real-alrafi)
-
-<div align="left" style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
-  🦅 <b>I am Web Developer</b><br>
-  ❓ <b>Endless curiosity</b><br>
-  ☕ <b>Fueled by code and coffee</b>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="vertical-align: top; padding-right: 20px;">
+        <div style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
+          🦅 <b>I am Web Developer</b><br>
+          ❓ <b>Endless curiosity</b><br>
+          ☕ <b>Fueled by code and coffee</b>
+        </div>
+      </td>
+      <td align="right" style="vertical-align: top;">
+        <a href="https://github.com/the-real-alrafi">
+          <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true" alt="Al Rafi" style="max-width: 200px; border-radius: 8px;">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 
