@@ -1,6 +1,6 @@
 # Hi, I'm Al Rafi👋
 
-<img src='https://drive.google.com/file/d/1-y9T-edDOwDk5mF6FXIkcj0p1zo2tyE5/view?usp=drive_link' alt='Al Rafi'>](https://github.com/the-real-alrafi)
+<img src='https://imgur.com/a/GCmSniY' alt='Al Rafi'>](https://github.com/the-real-alrafi)
 
 <div align="left" style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
   🦅 <b>I am Web Developer</b><br>
