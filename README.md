@@ -1,7 +1,5 @@
 # Hi, I'm Al Rafi👋
 
-<img src='https://imgur.com/a/GCmSniY' alt='Al Rafi'>](https://github.com/the-real-alrafi)
-
 <div align="left" style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
   🦅 <b>I am Web Developer</b><br>
   ❓ <b>Endless curiosity</b><br>
