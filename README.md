@@ -25,7 +25,6 @@ Passionate software developer specializing in web development, driven by innovat
 
 # 🤝🏻 Connect with me
 
-
 <a href="https://twitter.com/@therealalrafi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -44,7 +43,6 @@ Passionate software developer specializing in web development, driven by innovat
 <a href="https://www.facebook.com/the.real.alrafi" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-
 
 ---
 
@@ -82,7 +80,7 @@ Passionate software developer specializing in web development, driven by innovat
 # 📊 GitHub Stats
 
 <p align="left" style="line-height: 2;">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
