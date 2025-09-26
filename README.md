@@ -4,9 +4,9 @@
   <table>
     <tr>
       <td align="left" style="vertical-align: top; padding-right: 20px;">
-        <div style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
-          🦅 <b>I am Web Developer</b><br>
-          ❓ <b>Endless curiosity</b><br>
+        <div style="font-weight:bold; font-size:20px; line-height:2.5; margin-bottom:15px;">
+          🦅 <b>I am Web Developer</b><br><br>
+          ❓ <b>Endless curiosity</b><br><br>
           ☕ <b>Fueled by code and coffee</b>
         </div>
       </td>
@@ -18,7 +18,6 @@
     </tr>
   </table>
 </div>
-
 ---
 
 
