@@ -9,11 +9,16 @@
         ☕ <b>Fueled by Code and Coffee</b>
       </div>
     </td>
+    <td style="text-align:center; vertical-align:middle; padding:15px;">
+      <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true" 
+           alt="Al Rafi" 
+           style="width:100%; max-width:600px; height:auto; border-radius:12px;">
+    </td>
   </tr>
 </table>
 
+
 ---
-ac
 
 # 🤝🏻 Connect with me
 
