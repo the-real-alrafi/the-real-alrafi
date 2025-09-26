@@ -1,6 +1,6 @@
 # Hi, I'm Al Rafi👋
 
-<img src='https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true' alt='Al Rafi'>](https://github.com/the-real-alrafi)
+[<img src='https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true' alt='Al Rafi'>](https://github.com/the-real-alrafi)
 
 <div align="left" style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
   🦅 <b>I am Web Developer</b><br>
