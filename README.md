@@ -3,7 +3,7 @@
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="30%" valign="middle" style="padding-right: 20px;">
-      <p style="font-size: 18px; line-height: 1.8; margin: 8px 0;">🦅 <strong>I am Web Developer</strong></p>
+      <p style="font-size: 18px; line-height: 1.8; margin: 8px 0;">🦅 <strong>I am a Web Developer</strong></p>
       <p style="font-size: 18px; line-height: 1.8; margin: 8px 0;">❓ <strong>Endless curiosity</strong></p>
       <p style="font-size: 18px; line-height: 1.8; margin: 8px 0;">☕ <strong>Fueled by code and coffee</strong></p>
     </td>
