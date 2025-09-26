@@ -17,6 +17,11 @@
 
 ---
 
+<strong>About Me~ <br>
+Passionate software developer specializing in web development, driven by innovation and a love for elegant problem-solving. I thrive on exploring cutting-edge technologies, collaborating with talented developers, and turning ideas into meaningful, high-impact solutions. Every line of code is a step toward growth and excellence. Let’s connect and build something extraordinary together.
+
+---
+
 # 🤝🏻 Connect with me
 
 
