@@ -16,6 +16,7 @@
 </table>
 
 ---
+
 <b><span style="font-size:24px;">About Me~</span></b><br>
 <b><span style="font-size:18px;">
 Passionate software developer specializing in web development, driven by innovation and a love for elegant problem-solving. I thrive on exploring cutting-edge technologies, collaborating with talented developers, and turning ideas into meaningful, high-impact solutions. Every line of code is a step toward growth and excellence. Let’s connect and build something extraordinary together.
@@ -84,7 +85,6 @@ Passionate software developer specializing in web development, driven by innovat
   <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
-
 
 ---
 
