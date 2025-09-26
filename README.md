@@ -12,13 +12,12 @@
         <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true" alt="Al Rafi" style="width: 100%; max-width: 650px; height: auto;">
       </a>
     </td>
-  </tr>
+  </tr>  
 </table>
 
 ---
-
-<strong>About Me~ <br>
-Passionate software developer specializing in web development, driven by innovation and a love for elegant problem-solving. I thrive on exploring cutting-edge technologies, collaborating with talented developers, and turning ideas into meaningful, high-impact solutions. Every line of code is a step toward growth and excellence. Let’s connect and build something extraordinary together.
+ <b>About Me~ </b><br>
+<b>Passionate software developer specializing in web development, driven by innovation and a love for elegant problem-solving. I thrive on exploring cutting-edge technologies, collaborating with talented developers, and turning ideas into meaningful, high-impact solutions. Every line of code is a step toward growth and excellence. Let’s connect and build something extraordinary together.</b>
 
 ---
 
