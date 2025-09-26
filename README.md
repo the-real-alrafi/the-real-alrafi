@@ -1,24 +1,16 @@
 # Hi, I'm Al Rafi👋
 
-<table style="width:100%; border:none; table-layout:fixed;">
-  <tr>
-    <td style="vertical-align:middle; padding:15px;">
-      <div style="font-weight:bold; font-size:22px; line-height:2.2; margin-bottom:15px;">
-        🦅 <b>I am Web Developer</b><br>
-        ❓ <b>Endless Curiosity</b><br>
-        ☕ <b>Fueled by Code and Coffee</b>
-      </div>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:15px;">
-      <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true" 
-           alt="Al Rafi" 
-           style="width:100%; max-width:600px; height:auto; border-radius:12px;">
-    </td>
-  </tr>
-</table>
+[<img src='https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true' alt='Al Rafi'>](https://github.com/the-real-alrafi)
+
+<div align="left" style="font-weight:bold; font-size:20px; line-height:2.2; margin-bottom:15px;">
+  🦅 <b>I am Web Developer</b><br>
+  ❓ <b>Endless curiosity</b><br>
+  ☕ <b>Fueled by code and coffee</b>
+</div>
 
 
 ---
+
 
 # 🤝🏻 Connect with me
 
