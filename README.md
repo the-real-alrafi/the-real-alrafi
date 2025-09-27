@@ -78,14 +78,14 @@ Let’s connect and build something extraordinary together.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Streak
 
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false%22/"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
 </div>
-<br><br>
-<p align="center" style="line-height: 2;">
+<br>
+<p align="left";">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
