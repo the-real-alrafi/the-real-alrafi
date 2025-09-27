@@ -80,11 +80,11 @@ Let’s connect and build something extraordinary together.
 
 # 📊 GitHub Stats
 
-<p align="left" style="line-height: 2;">
+<p align="center" style="line-height: 2;">
   <div>
   <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"/>
-</div>
+</div><br>
 <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
