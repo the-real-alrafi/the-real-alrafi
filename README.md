@@ -81,10 +81,10 @@ Let’s connect and build something extraordinary together.
 # 📊 GitHub Stats
 
 <p align="center" style="line-height: 2;">
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"/>
-</div><br>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=true" />
+</div>
 <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
