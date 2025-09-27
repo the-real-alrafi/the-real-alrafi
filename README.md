@@ -9,7 +9,7 @@
     </td>
     <td width="70%" valign="middle" align="center">
       <a href="https://github.com/the-real-alrafi">
-        <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/8c7e8fa3d5a41cf6c4046705d6efd7a5703f2c55/image_2x.jpeg?raw=true" alt="Al Rafi" style="width: 100%; max-width: 650px; height: auto;">
+        <img src="https://github.com/the-real-alrafi/the-real-alrafi/blob/main/Be_a_programmer.png?raw=true" alt="Al Rafi" style="width: 100%; max-width: 650px; height: auto;">
       </a>
     </td>
   </tr>  
@@ -17,10 +17,13 @@
 
 ---
 
-<b><span style="font-size:24px;">About Me~</span></b><br>
-<b><span style="font-size:18px;">
-Passionate software developer specializing in web development, driven by innovation and a love for elegant problem-solving. I thrive on exploring cutting-edge technologies, collaborating with talented developers, and turning ideas into meaningful, high-impact solutions. Every line of code is a step toward growth and excellence. Let’s connect and build something extraordinary together.
-</span></b>
+<h2><b>About Me~</b></h2>
+<p><b>
+Passionate software developer specializing in web development, driven by innovation and a love for elegant problem-solving.  
+I thrive on exploring cutting-edge technologies, collaborating with talented developers, and turning ideas into meaningful, high-impact solutions.  
+Every line of code is a step toward growth and excellence.  
+Let’s connect and build something extraordinary together.
+</b></p>
 
 ---
 
@@ -46,7 +49,6 @@ Passionate software developer specializing in web development, driven by innovat
 </a>  
 
 ---
-
 
 # 💻 Languages & Tools
 
@@ -74,15 +76,16 @@ Passionate software developer specializing in web development, driven by innovat
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="margin:5px;">
 </p>
 
-
 ---
-
 
 # 📊 GitHub Stats
 
 <p align="left" style="line-height: 2;">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"><br><br>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false"/>
+</div>
+<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-real-alrafi&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
