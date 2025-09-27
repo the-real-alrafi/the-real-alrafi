@@ -78,10 +78,15 @@ Let’s connect and build something extraordinary together.
 
 ---
 
-# 📊 GitHub Stats & Streak
+# 📊 GitHub Stats
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="text-align: left; margin: 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=the-real-alrafi&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+# 🔥 GitHub Streak
+
+<div style="text-align: left; margin: 0;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=the-real-alrafi&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
 </div>
 <br>
