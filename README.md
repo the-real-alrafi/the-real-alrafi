@@ -35,7 +35,7 @@ Let’s connect and build something extraordinary together.
 <a href="https://dev.to/@the-real-alrafi" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/the-real-alrafi" target="_blank">
+<a href="https://codepen.com/the_real_alrafi" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/the-real-alrafi" target="_blank">
